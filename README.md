@@ -1,2 +1,2 @@
 # Coursera-Course-Web-Developer
-In this repository I practice my skills as a web developer, you can watch files like HTML, CSS, and js
+In this repository, I'm going to learn and practice my skills as a web developer.
